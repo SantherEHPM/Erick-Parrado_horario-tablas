@@ -1,0 +1,34 @@
+th,td,tr{
+    border-left: 2px groove chocolate;
+    border-right: 2px groove chocolate;
+    text-align: center;
+}
+
+table {
+    border-collapse:collapse; 
+}
+th{
+    width: 10%;
+    text-align: center;
+}
+#headt{
+    border: 2px groove chocolate;
+}
+tr{
+    height: 60px;
+    padding: 10px;
+    border-bottom: 1px dashed chocolate;
+}
+thead td,th{
+    background-color: goldenrod;
+}
+caption{
+    color: rgb(102, 56, 18);
+    font-size: 40px;
+    background-color: chocolate;
+}
+caption{
+    color: rgb(102, 56, 18);
+    font-size: 40px;
+    background-color: chocolate;
+}
